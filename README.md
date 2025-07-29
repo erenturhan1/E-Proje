@@ -1,6 +1,5 @@
-# flutter_app
+# E-Proje
 
-A new Flutter project.
 
 # Flutter Projesi
 
