@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/34ffd9d4-b6e0-4824-b436-69f75f0c1d1f
 # QuickDish
 
 
@@ -123,10 +125,10 @@ lib/
 ```
 ## Video Kaydı
 
-Uploading home_screen.dart - E-Proje - Visual Studio Code 2025-07-29 19-07-07.mp4…
+
+https://github.com/user-attachments/assets/1696161f-2f25-4ede-8b4f-9203be4583a1
 
 
-  
 
 ## Ekran Görüntüleri
 
