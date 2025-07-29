@@ -142,7 +142,6 @@ lib/
 
 ## Dark Theme 
 ![Home Screen ](assets/images/screenshots/Dark%20Theme/homescreen.dark.png)
-![Home Screen ](assets/images/screenshots/Dark%20Theme/homescreen2.dark.png)
 ![Search Screen ](assets/images/screenshots/Dark%20Theme/searchscreen.dark.png)
 ![Search Screen ](assets/images/screenshots/Dark%20Theme/searchscreen2.dark.png)
 ![Voice Screen ](assets/images/screenshots/Dark%20Theme/voicescreen.dark.png)
@@ -173,7 +172,7 @@ lib/
 
 ## İletişim
 
-- Proje Bağlantısı: [https://github.com/erenturhan1/FoodSync.git]
+- Proje Bağlantısı: [https://github.com/erenturhan1/E-Proje]
 
 - İstinye Üniversitesi: [https://www.istinye.edu.tr/](https://www.istinye.edu.tr/)
 
