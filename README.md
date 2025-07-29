@@ -121,6 +121,10 @@ lib/
 └── yardımcılar/ # Yardımcı fonksiyonlar
 
 ```
+## Video Kaydı
+
+Uploading home_screen.dart - E-Proje - Visual Studio Code 2025-07-29 19-07-07.mp4…
+
 
   
 
