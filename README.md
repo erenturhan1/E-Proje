@@ -18,7 +18,7 @@ QuickDish, kullanıcıların beslenme alışkanlıklarını iyileştirmek, yemek
 ## Ekibimiz
 
 -  **Danışman:**  
-[https://github.com/keyvanarasteh](Keyvan Arasteh)
+[https://github.com/keyvanarasteh] (Keyvan Arasteh)
 
 
 -  **Takım Üyeleri:**
