@@ -135,10 +135,7 @@ lib/
 ![Voice Screen ](assets/images/screenshots/Light%20Theme/voicescreen.png)
 ![Login Screen ](assets/images/screenshots/Light%20Theme/loginscreen.png)
 ![Register Screen ](assets/images/screenshots/Light%20Theme/registerscreen.png)
-![Planing Screen ](assets/images/screenshots/Light%20Theme/planingscreen.png)
-![Planing Screen ](assets/images/screenshots/Light%20Theme/planingscreen2.png)
-![Profile Screen ](assets/images/screenshots/Light%20Theme/profilescreen.png)
-![Settings Screen ](assets/images/screenshots/Light%20Theme/settingsscreen.png)
+
 
 
 
@@ -149,12 +146,7 @@ lib/
 ![Search Screen ](assets/images/screenshots/Dark%20Theme/searchscreen.dark.png)
 ![Search Screen ](assets/images/screenshots/Dark%20Theme/searchscreen2.dark.png)
 ![Voice Screen ](assets/images/screenshots/Dark%20Theme/voicescreen.dark.png)
-![Login Screen ](assets/images/screenshots/Dark%20Theme/loginscreen.dark.png)
-![Register Screen ](assets/images/screenshots/Dark%20Theme/registerscreen.dark.png)
-![Planing Screen ](assets/images/screenshots/Dark%20Theme/planingscreen.dark.png)
-![Planing Screen ](assets/images/screenshots/Dark%20Theme/planingscreen2.dark.png)
-![Profile Screen ](assets/images/screenshots/Dark%20Theme/profilescreen.dark.png)
-![Settings Screen ](assets/images/screenshots/Dark%20Theme/settingsscreen.dark.png)
+
 
 
 
