@@ -129,7 +129,6 @@ lib/
 ![Loading Screen](assets/images/screenshots/Light%20Theme/loadingscreen.png)
 
 ## Light Theme 
-![Home Screen ](assets/images/screenshots/Light%20Theme/homescreen.png)
 ![Search Screen ](assets/images/screenshots/Light%20Theme/searchscreen.png)
 ![Search Screen ](assets/images/screenshots/Light%20Theme/searchscreen2.png)
 ![Voice Screen ](assets/images/screenshots/Light%20Theme/voicescreen.png)
@@ -141,7 +140,6 @@ lib/
 
 
 ## Dark Theme 
-![Home Screen ](assets/images/screenshots/Dark%20Theme/homescreen.dark.png)
 ![Search Screen ](assets/images/screenshots/Dark%20Theme/searchscreen.dark.png)
 ![Search Screen ](assets/images/screenshots/Dark%20Theme/searchscreen2.dark.png)
 ![Voice Screen ](assets/images/screenshots/Dark%20Theme/voicescreen.dark.png)
