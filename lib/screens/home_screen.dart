@@ -15,7 +15,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title:
-            Text('FoodSync', style: Theme.of(context).textTheme.headlineMedium),
+            Text('QuicDish', style: Theme.of(context).textTheme.headlineMedium),
         centerTitle: true,
         actions: [
           IconButton(
