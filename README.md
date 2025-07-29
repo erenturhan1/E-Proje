@@ -131,7 +131,6 @@ lib/
 
 ## Light Theme 
 ![Home Screen ](assets/images/screenshots/Light%20Theme/homescreen.png)
-![Home Screen ](assets/images/screenshots/Light%20Theme/homescreen2.png)
 ![Search Screen ](assets/images/screenshots/Light%20Theme/searchscreen.png)
 ![Search Screen ](assets/images/screenshots/Light%20Theme/searchscreen2.png)
 ![Voice Screen ](assets/images/screenshots/Light%20Theme/voicescreen.png)
