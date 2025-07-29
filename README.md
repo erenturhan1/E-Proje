@@ -23,7 +23,7 @@ QuickDish, kullanıcıların beslenme alışkanlıklarını iyileştirmek, yemek
 
 -  **Takım Üyeleri:**
 
-- Eren Turhan [GitHub](https://github.com/erenturhan1)
+- 2320161037 Eren Turhan [GitHub](https://github.com/erenturhan1)
 
   
 
