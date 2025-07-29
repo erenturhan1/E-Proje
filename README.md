@@ -1,4 +1,4 @@
-# E-Proje
+# QuickDish
 
 
 # Flutter Projesi
@@ -11,7 +11,7 @@
 
 ## Proje Hakkında
 
-FoodSync, kullanıcıların beslenme alışkanlıklarını iyileştirmek, yemek planlarını kolaylaştırmak ve alışveriş süreçlerini hızlandırmak için yapay zeka destekli bir mobil uygulamadır. Kullanıcılar, kişisel diyet tercihleri ve sağlık hedeflerine uygun yemek planları alabilir, bu planlara göre alışveriş listeleri oluşturabilir ve hızlı bir şekilde sipariş verebilir.
+QuickDish, kullanıcıların beslenme alışkanlıklarını iyileştirmek, yemek planlarını kolaylaştırmak ve alışveriş süreçlerini hızlandırmak için yapay zeka destekli bir mobil uygulamadır. Kullanıcılar, kişisel diyet tercihleri ve sağlık hedeflerine uygun yemek planları alabilir, bu planlara göre alışveriş listeleri oluşturabilir ve hızlı bir şekilde sipariş verebilir.
 
   
 
